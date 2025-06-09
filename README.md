@@ -18,7 +18,7 @@ Make sure you have the following installed on your system:
 sudo apt update
 sudo apt install build-essential libncursesw5-dev
 
-#Game Rules
+# Game Rules
 - Catch the correct fruit shown on the screen to earn points.
 
 - If you don't catch the correct fruit you lose a life.
@@ -33,7 +33,7 @@ sudo apt install build-essential libncursesw5-dev
 
 - The game ends when you lose all your lives.
 
-#🎮 Controls
+# 🎮 Controls
   In Menu:
   
   ↑ ↓ – Navigate through options
