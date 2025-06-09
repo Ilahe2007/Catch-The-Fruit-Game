@@ -1,11 +1,10 @@
-# About:
-🍓Catch the Fruit Game 🧺
+# Catch the Fruit Game 🧺
 
 A terminal-based fruit-catching game made in C using the `ncursesw` library. Move the basket to catch the correct falling fruit while avoiding bombs!
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Make sure you have the following installed on your system:
 
@@ -13,7 +12,7 @@ Make sure you have the following installed on your system:
 - `libncursesw` library (for wide-character support, including emojis)
 -Make sure your terminal supports UTF-8 to see the emojis properly.
 
-### 🚀Install on Debian/Ubuntu:
+### Install on Debian/Ubuntu:
 
 sudo apt update
 sudo apt install build-essential libncursesw5-dev
@@ -33,7 +32,7 @@ sudo apt install build-essential libncursesw5-dev
 
 - The game ends when you lose all your lives.
 
-# 🎮 Controls
+# Controls🎮
   In Menu:
   
   ↑ ↓ – Navigate through options
